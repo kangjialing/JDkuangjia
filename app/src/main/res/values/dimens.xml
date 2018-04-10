@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin5">5dp</dimen>
+    <dimen name="textSize20">20sp</dimen>
+    <dimen name="nav_width">80dp</dimen>
+    <dimen name="divider_height">0.75dp</dimen>
+</resources>
